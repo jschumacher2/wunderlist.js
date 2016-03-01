@@ -166,3 +166,6 @@ This will install all dependencies (via npm) if needed and start the server. By 
 ## Build documentation
 
     $ make documentation
+    
+   
+   // End of documentation
