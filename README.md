@@ -168,4 +168,4 @@ This will install all dependencies (via npm) if needed and start the server. By 
     $ make documentation
     
    
-   // End of documentation
+   // End of documentation is here
