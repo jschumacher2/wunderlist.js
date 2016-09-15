@@ -5,7 +5,7 @@ It can be used both in the browser and on the server side.
 
 ***Note:*** Before you can start using Wunderlist API you need to [register your app](https://developer.wunderlist.com).
 
-## Basic Usage
+## Basic Usage is below
 
 ### Node
 
