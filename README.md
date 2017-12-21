@@ -1,4 +1,6 @@
 # Wunderlist Javascript SDK
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjschumacher2%2Fwunderlist.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjschumacher2%2Fwunderlist.js?ref=badge_shield)
+
 
 The Wunderlist JS SDK simplifies interacting with the Wunderlist API.
 It can be used both in the browser and on the server side.
@@ -166,3 +168,7 @@ This will install all dependencies (via npm) if needed and start the server. By 
 ## Build documentation
 
     $ make documentation
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjschumacher2%2Fwunderlist.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjschumacher2%2Fwunderlist.js?ref=badge_large)
